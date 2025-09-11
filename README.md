@@ -6,7 +6,7 @@ Presento mi perfil profesional, un espacio dedicado a mi desarrollo como program
 🎮 **Videojuegos:** Disfruto explorarlos como afición, analizando su diseño y mecánicas en mi tiempo libre.  
 
 ## Formación actual  
-🏫 **1º DAW - Desarrollo de Aplicaciones Web**  
+🏫 **2º DAW - Desarrollo de Aplicaciones Web**  
 Actualmente curso el primer año de este programa, adquiriendo competencias en el diseño y desarrollo de aplicaciones web, con un enfoque en tecnologías modernas y buenas prácticas.  
 
 ## Proyectos de interés  
@@ -17,5 +17,5 @@ Actualmente curso el primer año de este programa, adquiriendo competencias en e
 😄 HE  
 
 ---
-**Tecnologías en curso:** HTML, CSS, PHP  
+**Tecnologías en curso:** HTML, CSS, PHP, JS  
 **Objetivo profesional:** Consolidarme como desarrollador full-stack y liderar el desarrollo de una aplicación propia en el futuro.
