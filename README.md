@@ -17,5 +17,5 @@ Actualmente curso el primer año de este programa, adquiriendo competencias en e
 😄 HE  
 
 ---
-**Tecnologías en curso:** HTML, CSS, PHP, JS  
+**Tecnologías en curso:** ANGULAR, SYMFONY, HTML, CSS, PHP, JS  
 **Objetivo profesional:** Consolidarme como desarrollador full-stack y liderar el desarrollo de una aplicación propia en el futuro.
